@@ -1,6 +1,5 @@
 package folder_test
 
-// Smaple comment to check recency
 import (
 	"errors"
 	"strings"

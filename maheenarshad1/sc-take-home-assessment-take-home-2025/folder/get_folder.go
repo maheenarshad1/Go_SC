@@ -1,7 +1,5 @@
 package folder
 
-// Smaple comment to check recency
-
 import (
 	"errors"
 	"strings"
